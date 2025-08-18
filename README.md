@@ -19,6 +19,9 @@ Z4I916C4OF7SE94X76HTUID7YCGXTAT2 -->
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=simlexx-k&show_icons=true&theme=dracula)](https://github.com/simlexx-k)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simlexx-k&layout=compact&theme=dracula)](https://github.com/simlexx-k)
 
+### ⌛️ WakaTime Stats
+[![wakatime](https://wakatime.com/badge/user/8d5f6597-2797-4312-9cc2-5d553dcca504.svg)](https://wakatime.com/@8d5f6597-2797-4312-9cc2-5d553dcca504)
+
 ### 🔥 Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=simlexx-k&theme=dracula)](https://git.io/streak-stats)
 
