@@ -10,6 +10,7 @@ I’m a developer based in Nairobi, Kenya. My work at A3S Labs spans web product
 
 ## Recent public work
 
+- **[kukuapp](https://github.com/simlexx-k/kukuapp)** · Kotlin · last push 2026-11-24
 - **[retinavessel-ai](https://github.com/simlexx-k/retinavessel-ai)** · Jupyter Notebook · last push 2026-11-17\
   Intelligent Retinal Vessel Segmentation Through Deep Learning
 - **[rotorfrontier](https://github.com/simlexx-k/rotorfrontier)** · TypeScript · last push 2026-09-26
